@@ -3,3 +3,5 @@
 *.pyo
 *.sqlite
 *.log
+
+config.py
